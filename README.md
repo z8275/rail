@@ -34,7 +34,7 @@ fork 之后 ，在railway的dashboard，选择 new project
 
 **XRay 将在部署时会自动实配安装`最新版本`。**
 
-**出于安全考量，除非使用 CDN，否则请不要使用自定义域名，而使用 Heroku 分配的二级域名，以实现 XRay vless Websocket + TLS。**
+**出于安全考量，除非使用 CDN，否则请不要使用自定义域名，而使用Railway分配的二级域名，以实现 XRay vless Websocket + TLS。**
 
 <details>
 <summary>V2rayN(Xray、V2ray)</summary>
